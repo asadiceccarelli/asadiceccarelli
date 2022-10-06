@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Asadi Ceccarelli</h1>
-<h3 align="center">A mechanical engineer graduate currently training to be a data scientist.</h3>
+<h1 align="center">Asadi Ceccarelli</h1>
+<h3 align="center">Mechanical engineer graduate currently training to be a data scientist.</h3>
 
-- 🔭 I’m currently working on [Modelling Airbnb's Property Listing Dataset](https://github.com/asadiceccarelli/airbnb-property-listing)
+- 🔭 Currently working on [Modelling Airbnb's Property Listing Dataset](https://github.com/asadiceccarelli/airbnb-property-listing)
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 Currently learning **PyTorch**
 
 - 📫 Email **a.ceccarelli@hotmail.co.uk**
 
