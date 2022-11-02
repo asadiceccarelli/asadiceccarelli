@@ -1,5 +1,5 @@
 <h1 align="center">Asadi Ceccarelli</h1>
-<h3 align="center">Mechanical engineer graduate currently training to be a data scientist.</h3>
+<h3 align="center">Mechanical engineer graduate converted to data science.</h3>
 
 - 🔭 Currently working on [Modelling Airbnb's Property Listing Dataset](https://github.com/asadiceccarelli/airbnb-property-listing)
 
